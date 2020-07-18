@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 -->
 
+- 👨 My Portfolio - https://fuadaslam.github.io/MyPorfolio/
 - 🔭 I’m currently working on Lambdazen LLC
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on GitHub
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter - https://twitter.com/FuadAslam007 , LinkedIn - https://www.linkedin.com/in/fuad-aslam-56915a129/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:I spend almost 12 hours listening songs everyday.
+
+
 
