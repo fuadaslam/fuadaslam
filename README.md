@@ -15,7 +15,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in Flutter/Dart with UI projects, packages, ...
 
-- 🌱 I’m currently learning AngularLinkedIn
+- 🌱 I’m currently learning Angular and Deno
 - 👯 I’m looking to collaborate on Web Development Project
 - 🤔 I’m looking for help with Mobile Development
 - 💬 Ask me about Flutter or any othr tech stuff
