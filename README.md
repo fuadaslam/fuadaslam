@@ -9,7 +9,7 @@
 [![https://fuadaslam.github.io/MyPorfolio/](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)](https://fuadaslam.github.io/MyPorfolio/)
 [![https://twitter.com/FuadAslam007](https://img.shields.io/badge/follow%20me-twitter-blue?style=for-the-badge)](https://twitter.com/FuadAslam007)
 [![https://www.linkedin.com/in/fuad-aslam-56915a129/](https://img.shields.io/badge/follow%20me-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/fuad-aslam-56915a129/)
-[![extrat.h@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:extrat.h@gmail.com)
+[![fuad.aslam007@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:fuad.aslam007@gmail.com)
 
 👨‍💻 Software Engineer at [Lamdazen LLC](https://www.lambdazen.com/)
 
