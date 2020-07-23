@@ -29,9 +29,9 @@
 
 ### Connect Me!
 
-[![Twitter: FuadAslam007](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/FuadAslam007)
-[![Linkedin: fuad-aslam-56915a129/](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fuad-aslam-56915a129/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub fuadaslam](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/fuadaslam)
+[![Twitter: FuadAslam007](https://img.shields.io/twitter/follow/fuadaslam?style=social)](https://twitter.com/FuadAslam007)
+[![Linkedin: fuad-aslam-56915a129/](https://img.shields.io/badge/-fuadaslam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fuad-aslam-56915a129/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub fuadaslam](https://img.shields.io/github/followers/fuadaslam?label=follow&style=social)](https://github.com/fuadaslam)
 [![website](https://img.shields.io/badge/PortfolioWebsite-fuadaslam-2648ff?style=flat-square&logo=google-chrome)](https://fuadaslam.github.io/MyPorfolio/)
 
 <a href="https://twitter.com/FuadAslam007">
