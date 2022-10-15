@@ -6,7 +6,7 @@
 
 ### Hi there 👋  I'm Fuad
 
-👨‍💻 Software Engineer at [Lamdazen LLC](https://www.lambdazen.com/)
+👨‍💻 Software Engineer at [Ceegees](https://ceegees.in/)
 
 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in Flutter/Dart with UI projects, packages, ...
 
