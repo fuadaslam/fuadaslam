@@ -10,9 +10,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in Flutter/Dart with UI projects, packages, ...
 
-- 🌱 I’m currently learning Angular and Deno
-- 👯 I’m looking to collaborate on Web Development Project
-- 🤔 I’m looking for help with Mobile Development
+- 🌱 Software Engineer
 - 💬 Ask me about Flutter or any othr tech stuff
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:I spend almost 12 hours listening songs everyday.
